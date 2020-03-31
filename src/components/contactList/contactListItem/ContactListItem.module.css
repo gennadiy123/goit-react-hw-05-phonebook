@@ -1,0 +1,15 @@
+.box {
+    width: 300px;
+    height: 40px;
+}
+
+.contact {
+display: flex;
+border: 2px solid rgb(41, 187, 4);
+box-shadow: 20px blue;
+justify-content: space-between;
+}
+
+.buttonClass {
+    background-color: rgb(255, 174, 0);
+}

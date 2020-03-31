@@ -1,0 +1,14 @@
+.alert {
+    background-color: rgb(73, 214, 132);
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+
+.text {
+text-align: center;
+line-height: 50px;
+font-family: sans-serif;
+font-weight: 550;
+}
